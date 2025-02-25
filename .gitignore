@@ -1,0 +1,30 @@
+# Direktori node_modules yang berisi dependensi
+node_modules/
+
+# Direktori build Next.js
+.next/
+
+# File konfigurasi lingkungan lokal
+.env.local
+
+# File TypeScript environment
+next-env.d.ts
+
+# File log
+*.log
+
+# Direktori output build
+out/
+
+# Direktori cache
+.cache/
+
+# Direktori coverage untuk laporan pengujian
+coverage/
+
+# Direktori dist untuk output build
+dist/
+
+# File lock untuk npm atau yarn
+package-lock.json
+yarn.lock
