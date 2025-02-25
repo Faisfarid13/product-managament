@@ -1,4 +1,3 @@
-// src/app/components/LoginPage.tsx
 "use client"
 
 import React, { useState } from 'react';
