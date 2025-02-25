@@ -1,4 +1,3 @@
-// src/utils/baserow.ts
 import { getBaserowToken } from './auth';
 import { Product } from '../types/product';
 
