@@ -83,11 +83,11 @@ export default function ProductPage() {
           <table className="w-full">
             <thead>
               <tr className="bg-[#F5F6F7] border-b border-gray-200">
-                <th className="p-4 text-left">Name</th>
-                <th className="p-4 text-left">Price</th>
-                <th className="p-4 text-left">Description</th>
-                <th className="p-4 text-left">Stock</th>
-                <th className="p-4 text-left">Action</th>
+                <th className="p-4 text-center">Name</th>
+                <th className="p-4 text-center">Price</th>
+                <th className="p-4 text-center">Description</th>
+                <th className="p-4 text-center">Stock</th>
+                <th className="p-4 text-center">Action</th>
               </tr>
             </thead>
             <tbody>
