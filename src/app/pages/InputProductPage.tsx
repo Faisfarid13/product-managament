@@ -45,7 +45,7 @@ export function InputProductPage() {
       <h1 className="text-2xl font-semibold mb-6 text-center">Product Input</h1>
       
       {/* Product Name */}
-      <form onSubmit={handleSubmit} className="bg-[#fdfdfd] shadow-lg rounded-lg p-6">
+      <form onSubmit={handleSubmit} className="bg-[#fdfdfd] shadow-xl rounded-lg p-6">
         <div className="space-y-6">
           
           <div className="space-y-2">
