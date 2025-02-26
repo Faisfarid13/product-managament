@@ -25,12 +25,12 @@ export default function Home() {
   // content utama jika user berhasil login
   return (
     <div className="flex flex-col h-screen">
-      <div className="w-full bg-[#F5F6F7] shadow-md">
+      <div className="w-full bg-[#F5F6F7] shadow-md shadow-gray-100">
         <SimpleNavbar username={user.username} />
       </div>
       
       <div className="flex flex-grow mt-4">
-        <div className="w-1/5 bg-[#F5F6F7]">
+        <div className="w-1/5 bg-[#F5F6F7] shadow-md shadow-gray-100">
           <SideBar onNavigate={setActivePage} activePage={activePage} />
         </div>
         
