@@ -25,7 +25,7 @@ export default function Home() {
   // content utama jika user berhasil login
   return (
     <div className="flex flex-col h-screen">
-      <div className="w-full bg-[#F5F6F7]">
+      <div className="w-full bg-[#F5F6F7] shadow-md">
         <SimpleNavbar username={user.username} />
       </div>
       
