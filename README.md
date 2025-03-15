@@ -1,9 +1,5 @@
 ## Getting Started
 
-Video demonstrasi dari aplikasi ini : https://youtu.be/OSTzcds3dnk
-
-akun baserow yang digunakan ada di deskripsi youtube
-
 First, run the development server:
 
 ```bash
